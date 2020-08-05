@@ -1,3 +1,3 @@
 # responsiveness-portfolio\
 
-![](readImage/responsiveness-portfolio%20prtsc%203)
+![](readImage/responsiveness-portfolio-prtsc-3)
